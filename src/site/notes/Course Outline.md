@@ -6,3 +6,8 @@
 This is a test of using Obsidian to create a web page
 
 "Hello World!"
+
+ let x = 1
+ let y = 2
+ let z = x * y
+ print(z)
