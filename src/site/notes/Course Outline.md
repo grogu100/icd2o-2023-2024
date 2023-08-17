@@ -4,4 +4,5 @@
 
 # Course Outline
 This is a test of using Obsidian to create a web page
+
 "Hello World!"
